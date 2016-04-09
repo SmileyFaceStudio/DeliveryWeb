@@ -1,4 +1,4 @@
-angular.module('app', ['ngRoute', 'ngAnimate', 'ngResource', 'ngSanitize'])
+angular.module('app', ['ngRoute', 'ngAnimate', 'ngSanitize'])
 
 /**
  *
